@@ -23,11 +23,8 @@ public class Employee {
 		System.out.println(empObj.EmpSalary);
 		
 		System.out.println(empObj.EmpRegion);
-
 		
-		
-
-		
+		System.out.println("last line of the code");
 		
 	}
 
